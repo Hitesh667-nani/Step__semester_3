@@ -1,3 +1,5 @@
+package strings.assignment_problems;
+
 public class Problem5W1 {
 
     static void classifyWordLengths(String review) {

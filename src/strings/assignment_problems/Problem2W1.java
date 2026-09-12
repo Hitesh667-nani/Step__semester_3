@@ -1,3 +1,5 @@
+package strings.assignment_problems;
+
 public class Problem2W1
  {
 

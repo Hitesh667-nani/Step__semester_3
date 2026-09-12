@@ -1,3 +1,5 @@
+package strings.assignment_problems;
+
 public class Problem1W1 {
 
     static void checkDuplicateSeats(int[] seatNumbers) {

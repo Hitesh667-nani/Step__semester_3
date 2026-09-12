@@ -1,3 +1,5 @@
+package strings.assignment_problems;
+
 public class Problem3W1 {
 
     static void findLongestStreak(String signalLog) {

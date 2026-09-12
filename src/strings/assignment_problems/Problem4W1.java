@@ -1,3 +1,5 @@
+package strings.assignment_problems;
+
 public class Problem4W1 {
 
     static void analyzeInventory(int[] sectionA, int[] sectionB) {
